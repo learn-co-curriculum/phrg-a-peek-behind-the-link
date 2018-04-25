@@ -123,3 +123,4 @@ fine detail in the next section**.
 
 [TBL]: https://en.wikipedia.org/wiki/Tim_Berners-Lee
 [search-result]: https://curriculum-content.s3.amazonaws.com/web-development/how-to-define-a-link-with-html.jpeg
+<p data-visibility='hidden'>PHRG A Peek Behind the "Link", the Web's Superpower</p>
