@@ -123,4 +123,9 @@ fine detail in the next section**.
 
 [TBL]: https://en.wikipedia.org/wiki/Tim_Berners-Lee
 [search-result]: https://curriculum-content.s3.amazonaws.com/web-development/how-to-define-a-link-with-html.jpeg
+
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-a-peek-behind-the-link/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-a-peek-behind-the-link/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG A Peek Behind the "Link", the Web's Superpower</p>
